@@ -1,0 +1,11 @@
+1. How would you describe acessibility on the web to someone new to programming?
+I would describe it as how things need to be user friendly, clean code, understandable and robust.This makes the web more accessible
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+ Choose a content management system that supports accessibility. I would use headings correctly to organize the structure of your content.Include proper alt text for images, give your links unique and descriptive names.Use color carefully, design your forms for accessibility and use tables for tabular data, not for layout.
+
+3. How would you explain the concept of a variable to someone new to programming?
+I would explain how variables are names used to hold one or more values. Instead of repeating these values in multiple places in your code, the variable holds the results of a calculation, database call, results of a database query, or other value.
+
+4. What is the purpose of using functions in code?
+It is meant to keep everything more organized as a block of code. They provide better modularity for your application.
